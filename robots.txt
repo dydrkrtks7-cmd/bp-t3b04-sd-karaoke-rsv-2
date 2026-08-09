@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://idae-massage-note.karaoke-gyodae-hub.xyz/sitemap.xml
+Sitemap: https://idae-massage-note.karaoke-gyodae-hub.xyz/sitemap-pages.xml
